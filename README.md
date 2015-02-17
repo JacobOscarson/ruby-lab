@@ -1,3 +1,4 @@
-# ruby-lab
+# Rub Labs
 
-In which I experiment with the [Ruby](https://www.ruby-lang.org/en/) programming language.
+In which I experiment with the [Ruby](https://www.ruby-lang.org/en/)
+programming language.
